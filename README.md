@@ -53,7 +53,7 @@ I needed to record every request in my web application and after 3 months of sea
      - integer number value.
   -  **AdditinalHour:** if there is number of hours need to be added or subtract from hosting site server time.
      - integer number value.
-  -  LogPath:** directory for log (without file name or extension) to be write in if the log source is text file.
+  -  **LogPath:** directory for log (without file name or extension) to be write in if the log source is text file.
      - string value.
   -  **EscapeParameters:** if there is sensitive parameter which you wont to log them like password or somthing.
      - string value ( for multible valuse just seperate them with ",").
