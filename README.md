@@ -1,5 +1,5 @@
 # ObeidatLog
-C#.Net very fast text, XML files, or SQL database log for web applications.
+C#.Net very fast text file or SQL database log for web applications.
 I needed to record every request in my web application and after 3 months of searching and practicing for the best way to log a record without affecting the time of web request and performance.
 
 ### The main idea in this log is the sacrifice:
