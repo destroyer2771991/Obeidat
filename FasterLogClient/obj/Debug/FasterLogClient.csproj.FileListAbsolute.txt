@@ -1,0 +1,16 @@
+D:\Data\FasterLog\Obeidat\FasterLogClient\bin\Debug\FasterLogClient.exe.config
+D:\Data\FasterLog\Obeidat\FasterLogClient\bin\Debug\FasterLogClient.exe
+D:\Data\FasterLog\Obeidat\FasterLogClient\bin\Debug\FasterLogClient.pdb
+D:\Data\FasterLog\Obeidat\FasterLogClient\obj\Debug\FasterLogClient.csprojResolveAssemblyReference.cache
+D:\Data\FasterLog\Obeidat\FasterLogClient\obj\Debug\FasterLogClient.exe
+D:\Data\FasterLog\Obeidat\FasterLogClient\obj\Debug\FasterLogClient.pdb
+D:\Data\FasterLog\Obeidat\FasterLogClient\bin\Debug\Obeidat.Log.dll
+D:\Data\FasterLog\Obeidat\FasterLogClient\bin\Debug\Obeidat.Log.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\bin\Debug\FasterLogClient.exe.config
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\bin\Debug\FasterLogClient.exe
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\bin\Debug\FasterLogClient.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\bin\Debug\Obeidat.Log.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\bin\Debug\Obeidat.Log.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\obj\Debug\FasterLogClient.csprojResolveAssemblyReference.cache
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\obj\Debug\FasterLogClient.exe
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLogClient\obj\Debug\FasterLogClient.pdb

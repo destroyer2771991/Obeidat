@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obeidat.Log", "FasterLog\Obeidat.Log.csproj", "{F5C3A28F-A071-4404-8802-CE2540A51C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FasterLogClient", "FasterLogClient\FasterLogClient.csproj", "{CB4FABAD-23C4-413A-A3EC-ABC92EE5FA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{80E8E821-5EC0-4DFF-BC0A-DECA7EAEE27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obeidat.Reader", "Obeidat.Reader\Obeidat.Reader.csproj", "{5F1D0175-4E1E-49CE-BEB2-F90C09F4AE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C3A28F-A071-4404-8802-CE2540A51C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C3A28F-A071-4404-8802-CE2540A51C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C3A28F-A071-4404-8802-CE2540A51C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C3A28F-A071-4404-8802-CE2540A51C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4FABAD-23C4-413A-A3EC-ABC92EE5FA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4FABAD-23C4-413A-A3EC-ABC92EE5FA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4FABAD-23C4-413A-A3EC-ABC92EE5FA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4FABAD-23C4-413A-A3EC-ABC92EE5FA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E8E821-5EC0-4DFF-BC0A-DECA7EAEE27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E8E821-5EC0-4DFF-BC0A-DECA7EAEE27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E8E821-5EC0-4DFF-BC0A-DECA7EAEE27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E8E821-5EC0-4DFF-BC0A-DECA7EAEE27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1D0175-4E1E-49CE-BEB2-F90C09F4AE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1D0175-4E1E-49CE-BEB2-F90C09F4AE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1D0175-4E1E-49CE-BEB2-F90C09F4AE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1D0175-4E1E-49CE-BEB2-F90C09F4AE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ashhalan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FasterLogClient\\FasterLogClient.csproj
+		SccProjectName1 = FasterLogClient
+		SccLocalPath1 = FasterLogClient
+		SccProjectUniqueName2 = WebApplication1\\WebApplication1.csproj
+		SccProjectName2 = WebApplication1
+		SccLocalPath2 = WebApplication1
+		SccProjectUniqueName3 = Obeidat.Reader\\Obeidat.Reader.csproj
+		SccProjectName3 = Obeidat.Reader
+		SccLocalPath3 = Obeidat.Reader
+		SccProjectUniqueName4 = FasterLog\\Obeidat.Log.csproj
+		SccProjectName4 = FasterLog
+		SccLocalPath4 = FasterLog
+	EndGlobalSection
+EndGlobal

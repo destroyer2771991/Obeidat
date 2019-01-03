@@ -1,0 +1,5 @@
+D:\Data\FasterLog\Obeidat\FasterLog\bin\Debug\ObeidatLog.dll
+D:\Data\FasterLog\Obeidat\FasterLog\bin\Debug\ObeidatLog.pdb
+D:\Data\FasterLog\Obeidat\FasterLog\obj\Debug\ObeidatLog.dll
+D:\Data\FasterLog\Obeidat\FasterLog\obj\Debug\ObeidatLog.pdb
+D:\Data\FasterLog\Obeidat\FasterLog\obj\Debug\ObeidatLog.csprojResolveAssemblyReference.cache

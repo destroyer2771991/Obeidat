@@ -1,0 +1,21 @@
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\bin\Debug\Obeidat.Reader.exe.config
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\bin\Debug\Obeidat.Reader.exe
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\bin\Debug\Obeidat.Reader.pdb
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.csprojResolveAssemblyReference.cache
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.Form1.resources
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.Properties.Resources.resources
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.csproj.GenerateResource.Cache
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.exe
+D:\Data\FasterLog\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\bin\Debug\Obeidat.Reader.exe.config
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.exe
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\bin\Debug\Obeidat.Reader.exe
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\bin\Debug\Obeidat.Reader.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.csprojResolveAssemblyReference.cache
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.Form1.resources
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.Properties.Resources.resources
+C:\Users\Maher Hejazi\Desktop\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.csproj.GenerateResource.Cache
+D:\Download\Compressed\Obeidat\Obeidat\Obeidat.Reader\bin\Debug\Obeidat.Reader.exe.config
+D:\Download\Compressed\Obeidat\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.exe
+D:\Download\Compressed\Obeidat\Obeidat\Obeidat.Reader\obj\Debug\Obeidat.Reader.pdb

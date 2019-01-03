@@ -1,0 +1,1 @@
+StringTime: 22:51:40:23 |=> IP: ::1 |=> Username: Alaa |=> Client: Web |=> DeviceName: DESKTOP-9GT6A0N |=> Method: GET |=> URL: / |=> Data: Id: 10, Page: 15 , Image: [Base64 string], Data:Welcome to home , Other Image is  [Base64 string]

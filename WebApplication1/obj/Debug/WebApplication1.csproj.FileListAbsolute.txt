@@ -1,0 +1,96 @@
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\ApplicationInsights.config
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\csc.exe
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\vbc.exe
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\WebApplication1.dll.config
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\WebApplication1.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\WebApplication1.pdb
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Helpers.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Mvc.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Razor.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Webpages.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Razor.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Webpages.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Helpers.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\System.Web.Mvc.xml
+D:\Data\FasterLog\Obeidat\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Data\FasterLog\Obeidat\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Obeidat.Log.dll
+D:\Data\FasterLog\Obeidat\WebApplication1\bin\Obeidat.Log.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\WebApplication1.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Obeidat.Log.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Obeidat.Log.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\WebApplication1\obj\Debug\WebApplication1.pdb

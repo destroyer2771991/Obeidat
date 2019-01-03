@@ -1,0 +1,10 @@
+D:\Data\FasterLog\Obeidat\FasterLog\bin\Debug\Obeidat.Log.dll
+D:\Data\FasterLog\Obeidat\FasterLog\bin\Debug\Obeidat.Log.pdb
+D:\Data\FasterLog\Obeidat\FasterLog\obj\Debug\Obeidat.Log.csprojResolveAssemblyReference.cache
+D:\Data\FasterLog\Obeidat\FasterLog\obj\Debug\Obeidat.Log.dll
+D:\Data\FasterLog\Obeidat\FasterLog\obj\Debug\Obeidat.Log.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLog\bin\Debug\Obeidat.Log.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLog\bin\Debug\Obeidat.Log.pdb
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLog\obj\Debug\Obeidat.Log.csprojResolveAssemblyReference.cache
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLog\obj\Debug\Obeidat.Log.dll
+C:\Users\Maher Hejazi\Desktop\Obeidat\FasterLog\obj\Debug\Obeidat.Log.pdb
